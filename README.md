@@ -5,9 +5,10 @@
 * [x] [sctp](https://www.npmjs.com/package/sctp) - Stream Control Transmission Protocol. Thanks [latysheff](https://github.com/latysheff)!
 * [ ] super minimal DTLS library (no extensions, no session tickets, limited cipher suites)
   * [x] [unicast](https://npmjs.org/package/unicast) - unicast implementation of UDP Datagram sockets.
-  * [ ] some crypto library (most likely [GNU Nettle](https://directory.fsf.org/wiki/Nettle) compiled to [WASM](webassembly.org))
+  * [x] [dgram-server](https://npmjs.org/package/dgram-server) - stream-based UDP server.
+  * [ ] timeouts for streams
 * [ ] datachannel protocol
 * [ ] ICE
 * [ ] SDP read / write
 * [ ] turn
-* [ ] **FULL WEBRTC SUPPORT**
+* [ ] **WEBRTC DATACHANNEL SUPPORT**
