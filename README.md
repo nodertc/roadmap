@@ -6,6 +6,7 @@
 * [ ] super minimal DTLS client / server library (no extensions, no session tickets, limited cipher suites)
   * [x] [unicast](https://npmjs.org/package/unicast) - unicast implementation of UDP Datagram sockets.
   * [x] [dgram-server](https://npmjs.org/package/dgram-server) - stream-based UDP server.
+  * [x] [pem-file](https://npmjs.org/package/pem-file) - PEM file format encoder / decoder.
 * [ ] datachannel protocol
 * [ ] ICE
 * [ ] SDP read / write
