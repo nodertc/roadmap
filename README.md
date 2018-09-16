@@ -8,6 +8,7 @@
   * [x] [dgram-server](https://npmjs.org/package/dgram-server) - stream-based UDP server.
   * [x] [pem-file](https://npmjs.org/package/pem-file) - PEM file format encoder / decoder.
   * [ ] server
+* [ ] spec compliant wrapper for RTCIceCandidate
 * [ ] datachannel protocol
 * [ ] ICE
 * [ ] SDP read / write
