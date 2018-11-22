@@ -7,7 +7,7 @@
   * [x] [dgram-server](https://npmjs.org/package/dgram-server) - stream-based UDP server.
   * [x] [pem-file](https://npmjs.org/package/pem-file) - PEM file format encoder / decoder.
 * [ ] sctp - Stream Control Transmission Protocol, fork and rework already existing [sctp](https://www.npmjs.com/package/sctp) module.
-* [ ] datachannel protocol
+* [x] datachannel protocol
 * [x] SDP, [sdp-transform](https://www.npmjs.com/package/sdp-transform) seems fine, but it's need upper-layer API
 * [ ] [nodertc](https://github.com/nodertc/nodertc) agent core
 * [ ] **WEBRTC DATACHANNEL SUPPORT**
