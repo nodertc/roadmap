@@ -12,3 +12,5 @@
 * [ ] ICE agent
 * [ ] spec-compliant webrtc interface **WEBRTC DATACHANNEL SUPPORT**
 * [ ] turn
+
+TODO: Linux 5.11 added SCTP over UDP. Need to test DTLS over SCTP over UDP in kernel.
